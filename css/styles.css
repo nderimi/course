@@ -204,3 +204,48 @@ footer {
     margin-top: 4rem;
     font-size: 0.9rem;
 }
+
+.back-link {
+    display: inline-block;
+    margin-bottom: 20px;
+    color: var(--primary);
+    text-decoration: none;
+    font-weight: 600;
+}
+
+.back-link:hover {
+    text-decoration: underline;
+}
+
+
+/* kursi */
+.course-content h2 {
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    color: var(--secondary);
+}
+
+.course-content p {
+    margin-bottom: 1rem;
+    color: var(--text-main);
+}
+
+.course-banner {
+    background: linear-gradient(135deg, #2563eb, #1d4ed8);
+    color: white;
+    padding: 2rem;
+    border-radius: 12px;
+    margin-bottom: 2rem;
+}
+
+.back-link {
+    display: inline-block;
+    margin-bottom: 1.5rem;
+    color: var(--primary);
+    text-decoration: none;
+    font-weight: 600;
+}
+
+.back-link:hover {
+    text-decoration: underline;
+}
