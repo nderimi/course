@@ -130,7 +130,7 @@ header {
 
 .features {
     list-style: none;
-    margin-bottom: 2rem;
+    margin-bottom: 1rem;
 }
 
 .features li {
@@ -249,3 +249,10 @@ footer {
 .back-link:hover {
     text-decoration: underline;
 }
+.price{
+    display: block;
+    justify-content: center; 
+    text-align: center;
+    color:#1d4ed8;
+}
+
